@@ -3,6 +3,7 @@
 @tailwind utilities;
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
 
 
@@ -11,9 +12,7 @@
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
     'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
-    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
-
-  --font-anuphan: 'Anuphan', sans-serif;
+    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;;
 
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;

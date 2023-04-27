@@ -25,6 +25,9 @@ module.exports = {
       fontFamily: {
         'josefin': ['Josefin Sans', 'sans-serif']
       },
+      fontFamily:{
+        'raleway': [ 'Raleway', 'sans-serif']
+      },
       
       colors: {
         primary: {"dark-green":"#ccd5ae", "light-green":"#e9edc9", "cream":"#fefae0", "light-brown":"#faedcd", "brown":"#d4a373"}
