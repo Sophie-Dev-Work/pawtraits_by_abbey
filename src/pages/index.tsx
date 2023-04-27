@@ -26,7 +26,7 @@ export default function Home() {
         </Head>
 
 
-        <main className='bg-[#ede4df] bg-cover'>
+        <main className='bg-[#ede5dd] bg-cover'>
           <div className='min-h-screen text-center '>
 
 
@@ -37,7 +37,7 @@ export default function Home() {
                   <Image className='mx-auto mb-0' src={Logo} alt="logo" style={{ objectFit: "cover" }} />
                 </div>
                 <div>
-                  <h1 className='text-center font-poppins text-5xl pb-10 text-[#917349] '>Personalised Pet Portraits</h1>
+                  <h1 className='text-center font-poppins text-5xl pb-10 text-[#795e38] '>Personalised Pet Portraits</h1>
                   <p className='text-center font-poppins text-2xl font-light'>
                     Hi, my name is Abbey! I am a passionate artist who loves animals and capturing their unique personalities in my paintings. I create customised pet portraits that are realistic, expressive and full of life. Whether you want to immortalise your furry friend, surprise someone with a thoughtful gift, or decorate your home with a beautiful piece of art, I can help you turn your vision into reality. All I need is a clear photo of your pet and some details about their character and preferences. I can accommodate any size and style you want and can paint on canvas or paper. Contact me today and let’s create a stunning portrait of your beloved pet!
                   </p>
@@ -45,7 +45,7 @@ export default function Home() {
               </div>
               
               <div className='content-center'>
-                <Image src={Abbey} alt="eric" className='w-[600px] content-center mt-20 mb-10 mx-auto rounded-2xl shadow-md border-double border-[6px] border-[#917349]' />
+                <Image src={Abbey} alt="eric" className='w-[600px] content-center mt-20 mb-10 mx-auto rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
               </div>
 
 

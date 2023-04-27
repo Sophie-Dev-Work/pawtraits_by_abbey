@@ -16,8 +16,8 @@ function classNames(...classes: string[]) {
 export default function Navbar() {
     return (
         <nav className="bg-[#94847c] shadow dark:bg-gray-800">
-            <div className="container flex items-center justify-center p-6 mx-auto text-[#fefae0] capitalize ">
-                <a href="#" className="text-[#fefae0] dark:text-gray-200 border-b-2 border-[#776853] mx-1.5 sm:mx-6">home</a>
+            <div className="container flex items-center justify-center p-6 mx-auto text-[#ede5dd] capitalize ">
+                <a href="#" className="text-[#ede5dd] dark:text-gray-200 border-b-2 border-[#776853] mx-1.5 sm:mx-6">home</a>
 
                 <a href="#" className="border-b-2 border-transparent hover:text-[#776853]  hover:border-[#776853] mx-1.5 sm:mx-6">Gallery</a>
 
