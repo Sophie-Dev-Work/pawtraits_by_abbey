@@ -121,8 +121,8 @@ export default function Home() {
 
                                 </div>
 
-                                <div class="relative flex py-5 items-center">
-                                    <div class="flex-grow border-t border-[#795e38] "></div>
+                                <div className="relative flex py-5 items-center">
+                                    <div className="flex-grow border-t border-[#795e38] "></div>
                                 </div>
 
                             </div>
