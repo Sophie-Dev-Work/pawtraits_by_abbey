@@ -2,24 +2,21 @@ import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
-const navigation = [
-
-    { name: 'Home', href: "/", current: true },
-    { name: 'Mint', href: "/mint", current: true },
-
-]
 
 function classNames(...classes: string[]) {
     return classes.filter(Boolean).join(' ')
 }
 
 export default function Navbar() {
+    
     return (
         <nav className="bg-[#94847c] shadow dark:bg-gray-800">
+           
             <div className="container flex items-center justify-center p-6 mx-auto text-[#ede5dd] capitalize text-[17px]">
-                <a href="#" className="text-[#ede5dd] dark:text-gray-200 border-b-2 border-[#776853] mx-1.5 sm:mx-6">home</a>
 
-                <a href="#" className="border-b-2 border-transparent hover:text-[#776853]  hover:border-[#776853] mx-1.5 sm:mx-6">Gallery</a>
+                <a href="/" className="text-[#ede5dd] dark:text-gray-200 border-b-2 border-[#776853] mx-1.5 sm:mx-6">home</a>
+
+                <a href="/gallery" className="active:border-b-2 active:border-[#776853] border-transparent hover:text-[#776853]  hover:border-[#776853] mx-1.5 sm:mx-6">Gallery</a>
 
                 <a href="#" className="border-b-2 border-transparent hover:text-[#776853]  hover:border-[#776853] mx-1.5 sm:mx-6">Contact</a>
 
@@ -34,5 +31,7 @@ export default function Navbar() {
                 </a>
             </div>
         </nav>
+
+
     )
 }
