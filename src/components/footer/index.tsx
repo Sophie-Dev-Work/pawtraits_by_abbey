@@ -9,7 +9,7 @@ export default function Footer() {
     return (
 
         <>
-            <section className="bg-[#94847c] shadow dark:bg-gray-800">
+            <section className="bg-[#94847c] shadow dark:bg-gray-800 mt-0">
                 <div className="container flex items-center justify-center p-6 mx-auto text-[#fefae0] capitalize ">
                     <a href="https://instagram.com/pawtraitsbyabbey?igshid=YmMyMTA2M2Y=">
                         <AiFillInstagram className="text-4xl mr-2" />
