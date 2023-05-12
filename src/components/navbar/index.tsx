@@ -12,7 +12,7 @@ export default function Navbar() {
     return (
         <nav className="bg-[#94847c] shadow dark:bg-gray-800">
            
-            <div className="container flex items-center justify-center p-6 mx-auto text-[#ede5dd] capitalize text-[21px]">
+            <div className="container flex items-center justify-center p-4 mx-auto text-[#ede5dd] capitalize text-[19px]">
 
                 <a href="/" className="text-[#ede5dd] dark:text-gray-200 border-b-2 border-[#776853] mx-1.5 sm:mx-6">home</a>
 

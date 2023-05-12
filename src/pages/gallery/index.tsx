@@ -33,14 +33,14 @@ export default function Home() {
                 <main className='bg-[#ede5dd] bg-cover'>
                     <div className='min-h-screen text-center '>
 
-                        <h1 className='text-center font-poppins text-5xl  pb-3 pt-5 text-[#795e38] '>Gallery</h1>
+                        <h1 className='text-center font-poppins text-4xl  pb-3 pt-5 text-[#795e38] '>Gallery</h1>
 
                         <div className="grid md:grid-cols-2 xl:gap-0 gap-y-0 text-center content-center">
 
                             <div className="col-span-2">
                                 <div className="relative flex py-5 items-center">
                                     <div className="flex-grow border-t border-[#795e38] "></div>
-                                    <span className="flex-shrink mx-4 text-4xl text-[#795e38]">Eric</span>
+                                    <span className="flex-shrink mx-4 text-3xl text-[#795e38]">Eric</span>
                                     <div className="flex-grow border-t border-[#795e38]"></div>
                                 </div>
 
