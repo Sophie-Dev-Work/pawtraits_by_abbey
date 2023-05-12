@@ -47,11 +47,11 @@ export default function Home() {
                             </div>
 
                             <div className='flex justify-center lg:justify-end col-span-2 lg:col-span-1'>
-                                <Image src={Eric_Pic} alt="eric" className='  w-[400px] md:w-[600px] lg:w-[600px] content-center md:mt-5 mb-10 lg:mr-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
+                                <Image src={Eric_Pic} alt="eric" className='  w-[400px] md:w-[500px] lg:w-[500px] lg:h-[500px] content-center md:mt-5 mb-10 lg:mr-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
                             </div>
 
                             <div className='flex justify-center lg:justify-start col-span-2 lg:col-span-1'>
-                                <Image src={Eric_Painting} alt="eric" className=' w-[400px] md:w-[600px] lg:w-[600px] content-center md:mt-5 mb-10 lg:ml-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
+                                <Image src={Eric_Painting} alt="eric" className='w-[400px] md:w-[500px] lg:w-[500px] lg:h-[500px] content-center md:mt-5 mb-10 lg:ml-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
                             </div>
 
                             <div className="col-span-2">
@@ -141,11 +141,11 @@ export default function Home() {
                             </div>
 
                             <div className='flex justify-center lg:justify-end col-span-2 lg:col-span-1'>
-                                <Image src={Bertie_Photo} alt="eric" className='w-[400px] md:w-[600px] lg:w-[600px] content-center md:mt-5 mb-10 lg:mr-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
+                                <Image src={Bertie_Photo} alt="eric" className='w-[400px] md:w-[500px] lg:w-[500px] lg:h-[500px] content-center md:mt-5 mb-10 lg:mr-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
                             </div>
 
                             <div className='flex justify-center lg:justify-start col-span-2 lg:col-span-1'>
-                                <Image src={Bertie_Pic} alt="eric" className=' w-[400px] md:w-[600px] lg:w-[600px] content-center md:mt-5 mb-10 lg:ml-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
+                                <Image src={Bertie_Pic} alt="eric" className=' w-[400px] md:w-[500px] lg:w-[500px] lg:h-[500px] content-center md:mt-5 mb-10 lg:ml-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
                             </div>
 
                             <div className="col-span-2">
@@ -236,11 +236,11 @@ export default function Home() {
                             </div>
 
                             <div className='flex justify-center lg:justify-end col-span-2 lg:col-span-1'>
-                                <Image src={Rico_Photo} alt="eric" className=' w-[400px] md:w-[600px] lg:w-[600px] content-center md:mt-5 mb-10 lg:mr-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
+                                <Image src={Rico_Photo} alt="eric" className=' w-[400px] md:w-[500px] lg:w-[500px] lg:h-[500px] content-center md:mt-5 mb-10 lg:mr-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
                             </div>
 
                             <div className='flex justify-center lg:justify-start col-span-2 lg:col-span-1'>
-                                <Image src={Rico_Painting} alt="eric" className=' w-[400px] md:w-[600px] lg:w-[600px] content-center md:mt-5 mb-10 lg:ml-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
+                                <Image src={Rico_Painting} alt="eric" className=' w-[400px] md:w-[500px] lg:w-[500px] lg:h-[500px] content-center md:mt-5 mb-10 lg:ml-5 rounded-2xl shadow-md border-double border-[6px] border-[#795e38]' />
                             </div>
 
                             <div className="col-span-2">
