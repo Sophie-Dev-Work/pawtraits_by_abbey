@@ -5,7 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
-
+html {
+  zoom: 0.8;
+}
 
 :root {
   --max-width: 1100px;
